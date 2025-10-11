@@ -3,6 +3,9 @@ A Cisco Packet Tracer lab showing how to configure DHCP on a wireless router to 
 
 ## 📌 Objective
 To configure a wireless router in CISCO Packet Tracer to automatically assign IP addressess to multiple connected PCs using DHCP. This project demonstrates understanding of **network topology setup**, **DHCP configuration**, **IP addressing**, and **connectivity verification**.
+- Connect 3 PCs to a wireless router
+- Change the DHCP setting to a specific network range
+- Configure the clients to obtain their address via DHCP
 <br>
 
 ## 🧠 Skills Learned
@@ -21,3 +24,9 @@ To configure a wireless router in CISCO Packet Tracer to automatically assign IP
 <br>
 
 ## 🔎 Steps Performed
+Scenario
+A home user wants to use a wireless router to connect 3 PCs. All 3 PCs should obtain their address automatically from the wireless router.
+
+**Part 1: Setting up the network topology**
+Add three generic PCs
+Connect each PC to an Ethernet port to the wireless router using straight-through cables.
