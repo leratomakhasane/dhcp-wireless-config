@@ -28,5 +28,6 @@ Scenario
 A home user wants to use a wireless router to connect 3 PCs. All 3 PCs should obtain their address automatically from the wireless router.
 
 **Part 1: Setting up the network topology**
-Add three generic PCs
-Connect each PC to an Ethernet port to the wireless router using straight-through cables.
+a. Add three generic PCs
+b. Connect each PC to an Ethernet port to the wireless router using straight-through cables.
+![A screenshot of 3 PCs connected to a wireless router](images/part1.png "A picture of 3 PCs conneted to a wireless router")
