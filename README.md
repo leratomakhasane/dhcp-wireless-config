@@ -31,3 +31,10 @@ A home user wants to use a wireless router to connect 3 PCs. All 3 PCs should ob
 1. Add three generic PCs
 2. Connect each PC to an Ethernet port to the wireless router using straight-through cables.
 ![A screenshot of 3 PCs connected to a wireless router](images/part1.png "A picture of 3 PCs conneted to a wireless router")
+<br>
+
+**Part 2: Observe the default DHCP settings**
+1. After the amber lights have turned green, click **PC0**. Click the **Desktop** tab. Select **IP Configuration**. Select **DHCP** to receive an IP address from **DHCP Enabled Router**.
+![A screenshot of PC0 IP configuration](images/part2a.png "A picture of the IP Configuration of PC0")
+Record the IP address of the default gateway
+`192.168.0.1`
