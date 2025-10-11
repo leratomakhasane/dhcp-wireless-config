@@ -38,3 +38,14 @@ A home user wants to use a wireless router to connect 3 PCs. All 3 PCs should ob
 ![A screenshot of PC0 IP configuration](images/part2a.png "A picture of the IP Configuration of PC0")
 Record the IP address of the default gateway
 `192.168.0.1`
+
+
+2. Close the IP Configuration window.
+3. Open a Web Browser.
+4. Enter the IP address of the default gateway recorded earlier into the URL field. When prompted, enter the username admin and password admin.
+![A screenshot of the browser showing the default gateway web page](images/part2d.png "A picture of the IP address default gateway in the URL field")
+![A screenshot of the login page for the default gateway web page](images/part2da.png "A picture of the login page")
+5. Scroll through the Basic Setup page to view default settings, including the default IP address of the wireless router.
+![A screenshot of the basic setup of the default gateway](images/part2e.png "A picture of the default gateway defaults settings")
+6. Notice that DHCP is enabled, the starting address of the DHCP range and the range of addresses available to clients.
+<br>
