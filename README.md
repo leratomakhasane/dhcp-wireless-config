@@ -96,7 +96,7 @@ Record the IP address for PC1
 `192.168.5.127`
 5. Close the configuration window.
 6. Enable DHCP on PC2 following the steps for PC1.
-![A screenshot of DHCP being enabled on PC2](images/part5f.png "A picture of DHCP being enabled on PC2")
+![A screenshot of DHCP being enabled on PC2](images/part5fc.png "A picture of DHCP being enabled on PC2")
 <br>
 
 
