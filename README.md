@@ -17,10 +17,14 @@ To configure a wireless router in CISCO Packet Tracer to automatically assign IP
 - Network troubleshooting in CISCO Packet Tracer
 <br>
 
-## 🛠 Tools Used
-- CISCO Packet Tracer (network simulation)
-- Command prompt (network testing)
-- Web browser router GUI (router setup and DHCP configuration)
+## 🛠 Tools & Technologies Used
+- Cisco Packet Tracer – for simulating the wireless router, PCs, and network connections
+- Command Prompt (CLI) – for verifying IP configuration and network connectivity using `ipconfig` and `ping`
+- Router Web GUI – to configure router IP and DHCP settings through a browser interface
+- DHCP (Dynamic Host Configuration Protocol) – to automatically assign IP addresses to network devices
+- IPv4 Addressing & Subnetting – to manage IP address ranges and gateway configuration
+- LAN Configuration – connecting multiple devices within a small office/home network
+- Network Troubleshooting Tools – using ping and DHCP renewal to verify proper connectivity and routing
 <br>
 
 ## 🔎 Steps Performed
